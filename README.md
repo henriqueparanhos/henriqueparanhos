@@ -18,7 +18,7 @@ I'm building a hands-on RevOps portfolio inside **NovaFlow**, a fictional B2B Sa
 
 ## Tech stack
 
-**Working knowledge:** Power BI (DAX, semantic modeling) · SQL · MySQL · Python · Excel (advanced)
+**Working knowledge:** Power BI (DAX, semantic modeling) · SQL · MySQL · Python · Excel
 
 **Learning now (RevOps program):** HubSpot · PostgreSQL · Snowflake · n8n · Python automation · Git and GitHub workflows
 
