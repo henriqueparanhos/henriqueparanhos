@@ -1,4 +1,4 @@
-# Hi, I'm Henrique 👋
+# Hi, I'm Henrique
 
 **Commercial strategy meets data.** I come from B2B sales and key account management in Brazil, and I'm building the technical foundation to work in **Revenue Operations**: CRM architecture, SQL, BI, forecasting, and workflow automation.
 
